@@ -13,7 +13,11 @@ Designed and developed a custom admin panel for a business that needed tailored 
 - Clean, responsive UI using FluxUI + Tailwind
 - Role-based access controls
 
-![Dashboard](./screenshot1.png)
-
 ### Outcome
 This panel dramatically simplified day-to-day tasks for the business, cutting down time spent on internal operations and reducing potential for error. The backend logic is structured for maintainability and scalability.
+
+![Dashboard](./screenshot1.png)
+
+![Dashboard](./screenshot2.png)
+
+![Dashboard](./screenshot3.png)
